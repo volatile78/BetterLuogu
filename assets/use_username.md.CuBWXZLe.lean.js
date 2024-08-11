@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as a,a4 as d}from"./chunks/framework.CfbOou38.js";const m=JSON.parse('{"title":"用户名","description":"","frontmatter":{},"headers":[],"relativePath":"use/username.md","filePath":"use/username.md"}'),r={name:"use/username.md"},o=d("",9),c=[o];function n(s,h,i,l,_,u){return a(),e("div",null,c)}const b=t(r,[["render",n]]);export{m as __pageData,b as default};
